@@ -5,6 +5,7 @@ class Emp extends Component {
         return (
             <div>
                 <h1>this is first test</h1>
+                <h2>this is second test2</h2>
             </div>
         );
     }
