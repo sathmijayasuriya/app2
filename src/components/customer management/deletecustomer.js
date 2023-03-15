@@ -4,7 +4,11 @@ class Deletecustomer extends Component {
     render() {
         return (
             <div>
-                <h2>form</h2>
+             <h3>form</h3>
+             <form action="#" className='blalal'>
+                <label htmlFor="blabla"></label>
+                <input type="text" id='blabla' />
+             </form>
             </div>
         );
     }
